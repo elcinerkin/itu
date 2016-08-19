@@ -1,5 +1,6 @@
 angular.module('noteeApp')
-  .controller('LoginCtrl', function ($scope, $window, $rootScope) {
+  .controller('LoginCtrl', function ($scope, $window, $rootScope, Button) {
+    $scope.button = new Button();
     $scope.redirectHome = function(googleUser) {    
       $rootScope.homeVisible =true;
       $window.location.href = '#/home';
