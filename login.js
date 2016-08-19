@@ -18,6 +18,7 @@ angular.module('noteeApp')
     $scope.signIn = function(){
       auth2.signIn().then(function(){
         console.log('User signed in.');
+	$scope.button.inactive(); 
       });
     }
   });
