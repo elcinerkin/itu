@@ -11,6 +11,7 @@ angular.module('noteeApp')
       auth2.signOut().then(function () {
         console.log('User signed out.');
         $rootScope.homeVisible =false;
+	$scope.button.active();
       });
     }
   });
