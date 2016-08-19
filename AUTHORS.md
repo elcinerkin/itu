@@ -4,3 +4,4 @@ Duffy Duck
 Miss Piggy
 Kermit
 Minnie Mouse
+Mickey Mouse
