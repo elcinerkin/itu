@@ -14,4 +14,10 @@ angular.module('noteeApp')
 	$scope.button.active();
       });
     }
+    
+    $scope.signIn = function(){
+      auth2.signIn().then(function(){
+        console.log('User signed in.');
+      });
+    }
   });
