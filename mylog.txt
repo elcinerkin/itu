@@ -1,0 +1,49 @@
+*   fixed merge conflict
+|\  
+| * deactivated login button
+* | deactivate button
+|/  
+*   Merge branch 'login_button'
+|\  
+| * added missing dependency
+* | fix dependency error
+* | added sign-in
+|/  
+* disabled the button
+* added button obj
+* Started implementing login
+* au
+* added minnie
+* added mr kermit
+* creation of important configurat ion file
+* add more content
+* yes
+* woops
+* just testing
+* add content
+* add rebase.txt to staging area
+* work in branch
+* create a new file
+*   Merge branch 'master' of https://github.com/elcinerkin/itu
+|\  
+| * remove test
+* | new commit message
+|/  
+* testing
+* --amend
+* added miss piggy
+*   fix merge conflict
+|\  
+| * added duffy to authors
+* | added porky to authors
+|/  
+* added test file
+* add initial file
+* authors
+* adding authors
+* Deletes changelog.md
+* moved index
+* Create index.html and authors
+* index added
+* add contributing.md
+* Init file
